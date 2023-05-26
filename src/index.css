@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.feature-img{
+width: 900px;
+height: 430px;
+}
+
+
+
+.emprende-now{
+width: 100px}
